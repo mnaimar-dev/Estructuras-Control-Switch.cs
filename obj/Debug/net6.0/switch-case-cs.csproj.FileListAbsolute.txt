@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/bin/Debug/net6.0/switch-case-cs
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/bin/Debug/net6.0/switch-case-cs.deps.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/bin/Debug/net6.0/switch-case-cs.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/bin/Debug/net6.0/switch-case-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/bin/Debug/net6.0/switch-case-cs.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/refint/switch-case-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/switch-case-cs.genruntimeconfig.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/Estructuras-Control-Switch.cs/obj/Debug/net6.0/ref/switch-case-cs.dll
